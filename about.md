@@ -2,17 +2,17 @@
 layout: default
 title: About
 ---
-## About Miranda
+# About Miranda
 
-$ whoami
+## $ whoami
 
 Hello, I'm Miranda Fullerton, a SysOps engineer passionate about making the internet more secure.
   
-Work
+## Work
 
 I work as a Cloud Security Operations engineer on [Duo Security's](https://duo.com/about) Production Engineering team. Collectively, we are responsible for service availability and reliability for internal-facing systems, as well as production services across 50+ deployments made up of hundreds of servers. I can handle overnight on-call pages as well as turning manual processes into automated, turnkey procedures for other teams. I have also organized and lead business disaster drills that spanned multiple departments for compliance objectives.
 
-Community Involvement
+## Community Involvement
 
 I have served on call-for-paper (CFP) panels for [OWASP AppSec California](https://2019.appseccalifornia.org/) (2019) and [BSidesSF](https://bsidessf.org/) (2019). I find that serving on CFPs is one of the best ways to stay current with cutting-edge technologies, frameworks, and techniques. I've also presented on the [benefits of gamifying disaster recovery drills](https://www.youtube.com/watch?v=murKB1sDMzY).
 

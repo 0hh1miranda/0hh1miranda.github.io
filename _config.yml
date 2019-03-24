@@ -4,7 +4,7 @@ description: >
 about: >
     More cleverness here.
 master_repo: false
-url: "https://0hh1miranda.github.io/"
+url: "https://0hh1miranda.github.io"
 markdown: kramdown
 highlighter: rouge
 

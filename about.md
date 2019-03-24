@@ -2,8 +2,6 @@
 layout: default
 title: About
 ---
-# About Miranda
-
 ## $ whoami
 
 Hello, I'm Miranda Fullerton, a SysOps engineer passionate about making the internet more secure.
